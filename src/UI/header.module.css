@@ -1,0 +1,11 @@
+.navbar{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.navbar .brandLogo{
+
+}
+.navbar .cartLogo{
+
+}
